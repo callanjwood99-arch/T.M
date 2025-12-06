@@ -1,0 +1,12 @@
+To fix the Lovable branding issue:
+
+1. Create an og-image.png file (1200x630px) with your branding
+2. Place it in the public folder
+3. Clear social media cache using these tools:
+   - Facebook: https://developers.facebook.com/tools/debug/
+   - Twitter: https://cards-dev.twitter.com/validator
+   - LinkedIn: https://www.linkedin.com/post-inspector/
+   
+Paste your URL: https://t-m-iujk.vercel.app/
+Click "Scrape Again" or "Clear Cache" on each platform
+
